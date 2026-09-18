@@ -8,11 +8,17 @@ Beta: [![Download](https://img.shields.io/badge/download-2.0.0_beta02-blue.svg)]
 ![APK size](https://img.shields.io/badge/Size-94KB-e91e63.svg)
 
 
-
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MaterialSearchView-green.svg?style=true)](https://android-arsenal.com/details/1/3469)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/Mauker1/MaterialSearchView/blob/master/LICENSE)
 
 <a href='https://ko-fi.com/A623L7G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=f' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+
+# ⚠️ Repository Archived – No Further Updates
+This repository is now archived and will no longer receive updates, bug fixes, or new features. It has been deprecated in favor of newer solutions and is maintained here for historical reference only.
+
+### Thank You
+Thank you to everyone who downloaded, used, and supported MaterialSearchView over the years. Your feedback and interest made this project worthwhile.
+A special thanks to all contributors who helped improve this library through issues, pull requests, and discussions. Your contributions are greatly appreciated.
 
 ## Download
 To add the MaterialSearchView library to your Android Studio project, simply add the following gradle dependency:
